@@ -12,7 +12,7 @@
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Info](#info)
 
 ## Description
 
@@ -69,5 +69,5 @@ Contributions are welcome! If you happen to have any improvements or new feature
 ## License
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## Info
 This project was inspired by the need for an easy-to-use tool for life table analysis and visualization of survival data.
