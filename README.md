@@ -64,7 +64,7 @@ The application will generate interactive plots showing the survival distributio
 ![HazardLifespanAnalyzerOUTPUT](https://i.imgur.com/SkjUtw6.png)
 
 ## Contributing
-Contributions are welcome! If you happen to have any improvements or new features to add, feel free to fix this repository, make your changes, and submit a pull request.
+Contributions are welcome! If you have any improvements or new features to add, feel free to fork this repository, make your changes, and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
